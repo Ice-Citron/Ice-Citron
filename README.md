@@ -4,7 +4,7 @@
 - 📫 How to reach me -- (email) shng2025@marlboroughcollege.my
 
 - My HuggingFace Repo: https://huggingface.co/shng2025
-- Trying to give my repo profile a facelift. Wait a bit, no time for now :(  // Update shipping @16/11/2024 🎉
+- Trying to give my repo profile a facelift. Wait a bit, no time for now :(  // Update shipping @25/11/2024 🎉
 
 <!---
 Ice-Citron/Ice-Citron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
