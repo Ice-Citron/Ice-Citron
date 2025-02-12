@@ -4,7 +4,9 @@ I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by Decembe
 
 I'm quite confident that I can make anything given enough time. And I want to devote my life to AI and Nuclear Fusion research. OwO 
 
-My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).(Check out my number of commits! Not bad not terrible :< )
+My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
+
+> Psst! Check out my number of commits! Not bad not terrible :<
 
 ---
 
