@@ -24,4 +24,12 @@ I’m a student currently pursuing the IB Diploma (2023–2024) at Marlborough C
 
 ---
 
+## Skills
+
+| <img src="https://img.shields.io/badge/Language-C++-blue.svg" /> | <img src="https://img.shields.io/badge/Language-JavaScript-yellow.svg" /> | <img src="https://img.shields.io/badge/Framework-React-blue.svg" /> |
+|:--:|:--:|:--:|
+| C++ | JavaScript | React |
+
+---
+
 Thanks for stopping by—feel free to reach out or open an issue in any of my repos! 
