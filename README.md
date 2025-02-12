@@ -1,17 +1,27 @@
-- 👋 Hi, I’m Shi Hao.
-- 👀 I’m interested in C++.
-- 🌱 I’m currently learning IB diploma (2023-2024) in Marlborough College.
-- 📫 How to reach me -- (email) shng2025@gmail.com
+## Hi there, I'm Shi Hao! 👋
+
+I’m a student currently pursuing the IB Diploma (2023–2024) at Marlborough College. I love diving into **C++**, dabbling in various AI/ML experiments, and hacking together personal projects in my spare time. 
 
 ---
 
-- My HuggingFace Repo: https://huggingface.co/shng2025
-- Trying to give my repo profile a facelift. Wait a bit, no time for now :(  // Update shipping @25/11/2024 🎉
+### About Me
+- **Name**: Shi Hao
+- **Email**: [shng2025@gmail.com](mailto:shng2025@gmail.com)
+- **Interests**: Competitive programming, AI/ML, and software engineering
+- **Currently Building**: A web platform for Nosco Asia  
+  - **Live Demo**: [Nosco Web App](https://nosco-app-b5be4.web.app/)
+  - *Test Credentials*:  
+    - **Worker Email**: `evm.110.ss@gmail.com`  
+    - **Worker Password**: `12345678`
 
-- sorry. still no update yet. very busy. hopefully i can make ends meet. But. Hey! Personal website coming along rn!
-- Personal Website: https://sienarindustries.com
+---
 
-<!---
-Ice-Citron/Ice-Citron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Projects & Links
+- **Hugging Face Profile**: [huggingface.co/shng2025](https://huggingface.co/shng2025)  
+- **Personal Site (WIP)**: [sienarindustries.com](https://sienarindustries.com)
+
+> *“Trying to give my repo profile a facelift. Stay tuned—launching soon!”*
+
+---
+
+Thanks for stopping by—feel free to reach out or open an issue in any of my repos! 
