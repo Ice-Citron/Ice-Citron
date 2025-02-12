@@ -27,13 +27,15 @@ I'm quite confident that I can make anything given enough time. And I want to de
 
 ## Skills
 
+< * not finished yet :\
+
 ### AI/ML Skills
 
 | **Level**            | **Icons**                                                                                                                                                                                                                         |
 |:---------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Highly Proficient** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /> PyTorch                                                                                                     |
-| **Learning**         | <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="CUDA" /> CUDA                                                                                                                                       |
-| **Tools**            | <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="Google Colab" /> Google Colab <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="Tensor Dock" /> Tensor Dock <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="Lambda Labs" /> Lambda Labs <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="Nvidia H100" /> Nvidia H100 |
+| **Highly Proficient** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />                                                                                                     |
+| **Learning**         | <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="CUDA" />                                                                                                                                       |
+| **Tools**            | <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="Google Colab" /> <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="Tensor Dock" /> <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="Lambda Labs" /> <img src="https://raw.githubusercontent.com/octicons/octicons/master/icons/question.svg" width="40" height="40" alt="Nvidia H100" /> |
 
 
 ### SWE Skills
