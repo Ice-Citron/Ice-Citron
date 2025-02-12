@@ -1,6 +1,8 @@
 ## Hi there, I'm Shi Hao! 👋
 
-I’m a student currently pursuing the IB Diploma (2023–2024) at Marlborough College. I love diving into **C++**, dabbling in various AI/ML experiments, and hacking together personal projects in my spare time. 
+I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by December of 2026. My favourite AI combos so far is Claude MCP + OpenAI's O1 Pro. (Skibidi)
+
+I'm quite confident that I can make anything given enough time. And I want to devote my life to AI and Nuclear Fusion research. OwO 
 
 ---
 
