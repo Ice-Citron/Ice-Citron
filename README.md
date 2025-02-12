@@ -1,8 +1,10 @@
-## Hi there, I'm Shi Hao! 👋
+## Hi there, I'm Shi Hao! 🌌 🎌 🌠
 
 I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by December of 2026. My favourite AI combos so far is Claude MCP + OpenAI's O1 Pro. (Skibidi)
 
-I'm quite confident that I can make anything given enough time. And I want to devote my life to AI and Nuclear Fusion research. OwO (Check out my number of commits! Not bad not terrible :< )
+I'm quite confident that I can make anything given enough time. And I want to devote my life to AI and Nuclear Fusion research. OwO 
+
+My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).(Check out my number of commits! Not bad not terrible :< )
 
 ---
 
