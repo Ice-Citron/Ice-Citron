@@ -7,7 +7,7 @@ I’m a student currently pursuing the IB Diploma (2023–2024) at Marlborough C
 ### About Me
 - **Name**: Shi Hao
 - **Email**: [shng2025@gmail.com](mailto:shng2025@gmail.com)
-- **Interests**: Competitive programming, AI/ML, and software engineering
+- **Interests**: Nuclear Fusion, High-voltage Engineering, Multi-physics Simulations, AI/ML, and Software Engineering
 - **Currently Building**: A web platform for Nosco Asia  
   - **Live Demo**: [Nosco Web App](https://nosco-app-b5be4.web.app/)
   - *Test Credentials*:  
