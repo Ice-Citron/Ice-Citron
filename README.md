@@ -27,7 +27,7 @@ I'm quite confident that I can make anything given enough time. And I want to de
 
 ## Skills
 
-< * not finished yet :\
+>* Skills section not finished yet. I need to import the images. I'm too busy rn. Sry. :\
 
 ### AI/ML Skills
 
