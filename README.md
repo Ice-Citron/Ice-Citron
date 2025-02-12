@@ -17,7 +17,8 @@ I’m a student currently pursuing the IB Diploma (2023–2024) at Marlborough C
 ---
 
 ### Projects & Links
-- **Hugging Face Profile**: [huggingface.co/shng2025](https://huggingface.co/shng2025)  
+- **Hugging Face Profile**: [huggingface.co/shng2025](https://huggingface.co/shng2025)
+- **F1 in Schools (Anduril Racing)**: [andurilracing.com](https://andurilracing.com/)
 - **Personal Site (WIP)**: [sienarindustries.com](https://sienarindustries.com)
 
 > *“Trying to give my repo profile a facelift. Stay tuned—launching soon!”*
@@ -26,9 +27,9 @@ I’m a student currently pursuing the IB Diploma (2023–2024) at Marlborough C
 
 ## Skills
 
-| <img src="https://img.shields.io/badge/Language-C++-blue.svg" /> | <img src="https://img.shields.io/badge/Language-JavaScript-yellow.svg" /> | <img src="https://img.shields.io/badge/Framework-React-blue.svg" /> |
-|:--:|:--:|:--:|
-| C++ | JavaScript | React |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" /> |
+|:---:|:---:|:---:|
+| **C++** | **JavaScript** | **React** |
 
 ---
 
