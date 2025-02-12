@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Skill Grid</title>
+  <style>
+    /* Container styles: 5 columns, gap, center, etc. */
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 100px);
+      gap: 20px;
+      justify-content: center;
+      padding: 20px;
+      background-color: #f7f7f7;
+    }
+    /* Each square “card” */
+    .skill-card {
+      background-color: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      width: 100px;
+      height: 100px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: transform 0.2s ease-in-out;
+      /* optional border or shadow */
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+    }
+    .skill-card:hover {
+      transform: scale(1.1);
+    }
+    /* The logo itself */
+    .skill-card img {
+      max-width: 60%;
+      max-height: 60%;
+      pointer-events: none; /* so hover only affects the card */
+    }
+  </style>
+</head>
+<body>
+
+<h1 style="text-align:center;">My Skills</h1>
+
+<div class="skills-grid">
+  <div class="skill-card">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++">
+  </div>
+  <div class="skill-card">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+  </div>
+  <div class="skill-card">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+  </div>
+  <div class="skill-card">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+  </div>
+  <div class="skill-card">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
+  </div>
+  <!-- Add as many squares as you like -->
+</div>
+
+</body>
+</html>
