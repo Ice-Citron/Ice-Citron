@@ -7,6 +7,8 @@ I'm quite confident that I can make anything given enough time. And I want to de
 My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
 
 > Unfortunately, currently I've currently slowed down on number of commits on Github. As I'm currently busy working as a AI training data labeller and is getting into and building FPV drones from scratch.
+>
+> I still haven't finished my personal website as well. I think I will get to that by the end of August probably.
 
 ---
 
