@@ -1,12 +1,12 @@
 ## Hi there, I'm Shi Hao! 🌌 🎌 🌠
 
-I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by December of 2026. My favourite AI combos so far is Claude MCP + OpenAI's O1 Pro. (Skibidi)
+I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by December of 2026. My favourite AI combos so far is Claude MCP + OpenAI's O3 Pro. (Planning to try out Claude Max with Claude Code soon, I'm a bit slow on agentic frameworks)
 
 I'm quite confident that I can make anything given enough time. And I want to devote my life to AI and Nuclear Fusion research. OwO 
 
 My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
 
-> Psst! Check out my number of commits! Not bad not terrible :<
+> Unfortunately, currently I've currently slowed down on number of commits on Github. As I'm currently busy working as a AI training data labeller and is getting into and building FPV drones from scratch.
 
 ---
 
@@ -14,11 +14,13 @@ My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
 - **Name**: Shi Hao
 - **Email**: [shng2025@gmail.com](mailto:shng2025@gmail.com)
 - **Interests**: Nuclear Fusion, High-voltage Engineering, Multi-physics Simulations, AI/ML, and Software Engineering
-- **Currently Building**: A web platform for Nosco Asia  
+- **Currently Building**: FPV 5" Drone
+- **Previously Building**: A web platform for Nosco Asia   
   - **Live Demo**: [Nosco Web App](https://nosco-app-b5be4.web.app/)
   - *Test Credentials*:  
     - **Worker Email**: `evm.110.ss@gmail.com`  
     - **Worker Password**: `12345678`
+> Still need to run Tests for my Nosco App
 
 ---
 
