@@ -17,6 +17,7 @@ My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
 - **Email**: [shng2025@gmail.com](mailto:shng2025@gmail.com)
 - **Interests**: Nuclear Fusion, High-voltage Engineering, Multi-physics Simulations, AI/ML, and Software Engineering
 - **Currently Building**: FPV 5" Drone
+- **Recently Built for Perplexity AI Hackathon**: [Try it out!](https://perplexity-news-3aba4.web.app/)
 - **Previously Building**: A web platform for Nosco Asia   
   - **Live Demo**: [Nosco Web App](https://nosco-app-b5be4.web.app/)
   - *Test Credentials*:  
