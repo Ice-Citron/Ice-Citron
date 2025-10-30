@@ -14,7 +14,8 @@ My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
 
 ### About Me
 - **Name**: Shi Hao
-- **Email**: [shng2025@gmail.com](mailto:shng2025@gmail.com)
+- **Primary Email**: [shi-hao.ng25@imperial.ac.uk](mailto:shi-hao.ng25@imperial.ac.uk)
+- **Personal Email**: [shng2025@gmail.com](mailto:shng2025@gmail.com)
 - **Interests**: Nuclear Fusion, High-voltage Engineering, Multi-physics Simulations, AI/ML, and Software Engineering
 - **Currently Building**: FPV 5" Drone
 - **Recently Built for Perplexity AI Hackathon**: [Try it out!](https://perplexity-news-3aba4.web.app/)
