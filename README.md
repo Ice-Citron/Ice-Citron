@@ -1,6 +1,6 @@
 ## Hi there, I'm Shi Hao! 🌌 🎌 🌠
 
-I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by December of 2026. My favourite AI combos so far is Claude MCP + OpenAI's O3 Pro. (Planning to try out Claude Max with Claude Code soon, I'm a bit slow on agentic frameworks)
+I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by December of 2027. My favourite AI combos so far is Claude MCP + OpenAI's O3 Pro. (Planning to try out Claude Max with Claude Code soon, I'm a bit slow on agentic frameworks)
 
 I'm quite confident that I can make anything given enough time. And I want to devote my life to AI and Nuclear Fusion research. OwO 
 
