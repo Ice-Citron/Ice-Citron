@@ -1,14 +1,10 @@
 ## Hi there, I'm Shi Hao! 🌌 🎌 🌠
 
-I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by December of 2027. My favourite AI combos so far is Claude MCP + OpenAI's O3 Pro. (Planning to try out Claude Max with Claude Code soon, I'm a bit slow on agentic frameworks)
+I’m Shi Hao. Just Shi Hao. I love AI and I think we are getting AGI by December of 2027. My favourite AI combos so far is Gemini 3.1 Deep Think ++ Claude Opus 4.6 ++ GPT-5.4-Pro.
 
-I'm quite confident that I can make anything given enough time. And I want to devote my life to AI and Nuclear Fusion research. OwO 
+I'm quite confident that I can make anything given enough time. I want to devote my life to Frontier AI and Defense Tech, but primarily I just want to build cool shit whilst getting paid for it. OwO 
 
 My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
-
-> Unfortunately, currently I've currently slowed down on number of commits on Github. As I'm currently busy working as a AI training data labeller and is getting into and building FPV drones from scratch.
->
-> I still haven't finished my personal website as well. I think I will get to that by the end of August probably.
 
 ---
 
@@ -16,15 +12,7 @@ My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
 - **Name**: Shi Hao
 - **Primary Email**: [shi-hao.ng25@imperial.ac.uk](mailto:shi-hao.ng25@imperial.ac.uk)
 - **Personal Email**: [shng2025@gmail.com](mailto:shng2025@gmail.com)
-- **Interests**: Nuclear Fusion, High-voltage Engineering, Multi-physics Simulations, AI/ML, and Software Engineering
-- **Currently Building**: FPV 5" Drone
-- **Recently Built for Perplexity AI Hackathon**: [Try it out!](https://perplexity-news-3aba4.web.app/)
-- **Previously Building**: A web platform for Nosco Asia   
-  - **Live Demo**: [Nosco Web App](https://nosco-app-b5be4.web.app/)
-  - *Test Credentials*:  
-    - **Worker Email**: `evm.110.ss@gmail.com`  
-    - **Worker Password**: `12345678`
-> Still need to run Tests for my Nosco App
+- **Interests**: Startups, Drones, Frontier AI, Robotics.
 
 ---
 
@@ -32,6 +20,14 @@ My favourite YouTubers are thrite, Grian, WolfyPlayz and Ken (Clash Royale).
 - **Hugging Face Profile**: [huggingface.co/shng2025](https://huggingface.co/shng2025)
 - **F1 in Schools (Anduril Racing)**: [andurilracing.com](https://andurilracing.com/)
 - **Personal Site (WIP)**: [sienarindustries.com](https://sienarindustries.com)
+
+### Currently working on several projects: 
+
+- New Dejima: An autonomous AI agent revenue system built on OpenClaw where AI agents build Android apps, self-market on YouTube Shorts, and track revenue-per-token vs cost-per-token (targeting $10K ARR by end of 2026).
+
+- Project Interceptor: Leading the development of a 400km/h interceptor drone with Raspberry Pi-based computer vision for autonomous target tracking and additional autonomous drone-related missions. Powered by NVIDIA Jetson, ROS2 and Ardupilot. Will involve lots of FEA testing from aerodynamic, heat dissipation to structural, to real world testing.
+
+- Project Automaton: Competing in the NVIDIA x Revel robotics competition and Intrinsic AI Challenge, where I'm training and modifying SO-101 and UR5e robotic arms in Isaac Sim, MuJoCo, and Gazebo for tasks including complex Lego assembly (Revel) and cable management for data center server-rack assembly (Intrinsic). The thesis: If I can have the skill of AI programming to the extent where I can train my robot to be able to assemble something as complex as the Lego Millenium Falcon. If you also consider how most cheap-labour Asian manufacturing assembly jobs aren't much harder than assemblying Lego Millenium Falcons, then they are screwed by my robots. 
 
 ---
 
