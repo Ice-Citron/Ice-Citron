@@ -4,8 +4,6 @@ Second-year Computing student at Imperial College London. I build robot percepti
 
 My current focus is robot reliability: how to find failures that a good local benchmark can miss.
 
-> To defeat an enemy, you must know them. Not simply their battle tactics, but their history, philosophy, art.
-
 [sienarindustries.com](https://sienarindustries.com) · [LinkedIn](https://www.linkedin.com/in/shi-hao-ng/) · [Hugging Face](https://huggingface.co/shng2025) · [Email](mailto:shi-hao.ng25@imperial.ac.uk)
 
 ## Now
