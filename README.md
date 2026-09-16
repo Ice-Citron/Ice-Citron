@@ -1,6 +1,6 @@
 # Shi Hao Ng
 
-Second-year Computing student at Imperial College London, working in robotics and machine learning. #
+Second-year Computing student at Imperial College London, working in robotics and machine learning.
 
 > To defeat an enemy, you must know them. Not simply their battle tactics, but their history, philosophy, art.
 
