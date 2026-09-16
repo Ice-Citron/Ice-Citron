@@ -1,6 +1,6 @@
 # Shi Hao Ng
 
-Second-year Computing student at Imperial College London. I build robot perception systems, train language models, and make physical prototypes.
+Second-year Computing student at Imperial College London. I build robot perception systems and physical prototypes.
 
 My current focus is robot reliability: how to find failures that a good local benchmark can miss.
 
@@ -16,21 +16,18 @@ My current focus is robot reliability: how to find failures that a good local be
 
 - **Quantarune** — Intrinsic’s AI for Industry Challenge, **49th of 196**.  
   A UR5e cable-insertion policy scored **141 locally and 89 on hidden scenes**. That gap led to my current work on test coverage and failure discovery.
+  <!-- Add the Quantarune archive link when the repository is public. -->
 
-- **GPT-Valkyrie** — [Code](https://github.com/Ice-Citron/GPT-Valkyrie) · [Paper](https://drive.google.com/file/d/1dlhTgv4-A2cCYSsL00An_XpfGpg1DyWy/view)  
-  GPT-2 124M research on normalization methods and their positions within Transformer blocks. Pre-training on four H100 GPUs, followed by downstream evaluation and ablation studies.
-
-- **GPT2-Reproduction** — [Code](https://github.com/Ice-Citron/GPT2-Reproduction)  
-  GPT-2 124M pre-training with PyTorch DDP on H100 GPUs. Work includes gradient accumulation, mixed precision, distributed data loading, and checkpoint management.
+- **GPT-Valkyrie** — [Research code](https://github.com/Ice-Citron/GPT-Valkyrie) · [GPT-2 reproduction](https://github.com/Ice-Citron/GPT2-Reproduction) · [Paper](https://drive.google.com/file/d/1dlhTgv4-A2cCYSsL00An_XpfGpg1DyWy/view)  
+  GPT-2 124M reproduction and research on normalization methods and their positions within Transformer blocks. Pre-trained models on **four H100 GPUs** with PyTorch DDP, gradient accumulation, and mixed precision. Followed with downstream evaluation and ablation studies.
 
 - **Sparky** — [Code](https://github.com/Ice-Citron/Sparky)  
   A 2D engine in C++ and OpenGL, based on The Cherno’s series. Includes a batched sprite renderer, GLSL pipeline, and hand-written matrix library.
 
-
 ## Built with my hands
 
-- **Augmented electromagnetic railgun** — [Write-up](https://sienarindustries.com/project/railgun) · [Simulation code](https://github.com/Ice-Citron/FEA-Physics_IA)  
-  Three prototypes with a hand-wound ZVS transformer. Average projectile speed of **132 km/h across 10+ firings**. The associated physics study contains **70 LS-DYNA runs across 10 voltage conditions**.
+- **Augmented electromagnetic railgun** — [Write-up](https://sienarindustries.com/project/railgun) · [Rail-launcher simulations](https://github.com/Ice-Citron/FEA-Physics_IA)  
+  Three prototypes with a hand-wound ZVS transformer. Average projectile speed of **132 km/h across 10+ firings**. A separate physics study used a rail-launcher model, with **70 LS-DYNA runs across 10 voltage conditions**.
 
 - **FPV racing drone** — [Build log](https://sienarindustries.com/project/fpv-drone)  
   Designed the PET-CF frame in Blender and soldered the electronics. Mamba F722, DJI O4 Pro, and ELRS; **610 g**, tuned in Betaflight and flown in Acro mode.
@@ -41,9 +38,9 @@ My current focus is robot reliability: how to find failures that a good local be
 ## Technical skills
 
 - **Languages:** Python, C/C++, Kotlin, Java, Haskell, TypeScript/JavaScript, RISC-V assembly
-- **Machine learning:** PyTorch, DDP, Hugging Face Transformers, Accelerate, LeRobot, YOLO, SAM, Weights & Biases, NumPy, vLLM, llama.cpp
+- **Machine learning:** PyTorch, DDP, Hugging Face Transformers, LeRobot, YOLO, SAM, Weights & Biases, NumPy, vLLM, llama.cpp
 - **Robotics and simulation:** ROS 2, MuJoCo C API, Gazebo, Isaac Sim, FoundationPose, OpenCV, Universal Robots UR5e
-- **Systems and graphics:** Linux, CUDA, Git, Docker, GCP, AWS, OpenGL, GLFW
+- **Systems and graphics:** Linux/CUDA toolchain, Git, Docker, GCP, AWS, OpenGL, GLFW
 - **Web:** React, Node.js, Firebase
 - **CAD and hardware:** Fusion 360, Blender, Ansys Fluent, LS-DYNA, 3D printing, CNC, electronics, Betaflight
 
