@@ -14,10 +14,8 @@ My current focus is coverage-based edge-case hunter for robot reliability: how t
 
 ## Flagship projects
 
-- **Project-Ladder** — [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git)
-  Intrinsic’s AI for Industry Challenge, 49th of 196.  
-  Our UR5e cable-insertion policy scored 141 locally and 89 on hidden scenes. That gap led to my current work on test coverage and failure discovery.
-  <!-- Add the Quantarune archive link when the repository is public. -->
+- **Project-Ladder** — [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git) <br>
+    Intrinsic’s AI for Industry Challenge, 49th of 196. Our UR5e cable-insertion policy scored 141 locally and 89 on hidden scenes. That gap led to my current work on test coverage and failure discovery.
 
 - **nanoGPT-Valkyrie** — [Research code](https://github.com/Ice-Citron/nanoGPT-Valkyrie) · [GPT-2 reproduction](https://github.com/Ice-Citron/GPT2-Reproduction) · [Paper](https://drive.google.com/file/d/1dlhTgv4-A2cCYSsL00An_XpfGpg1DyWy/view)  
   GPT-2 124M reproduction and research on normalisation methods and their positions within Transformer blocks. Pre-trained models on four H100 GPUs with PyTorch DDP, gradient accumulation, and mixed precision. This was followed by downstream evaluation and ablation studies.
