@@ -2,7 +2,7 @@
 
 Second-year Computing student at Imperial College London. I build robot perception systems and physical prototypes.
 
-My current focus is robot reliability: how to find failures that a good local benchmark can miss.
+My current focus is coverage-based edge-case hunter for robot reliability: how to find failures that a good local benchmark can miss.
 
 [sienarindustries.com](https://sienarindustries.com) · [LinkedIn](https://www.linkedin.com/in/shi-hao-ng/) · [Hugging Face](https://huggingface.co/shng2025) · [Email](mailto:shi-hao.ng25@imperial.ac.uk)
 
