@@ -15,7 +15,7 @@ Second-year Computing student at Imperial College London, working in robotics an
 - **GT-GAP** — paper in preparation on coverage-driven evaluation of learned manipulation policies, using cable insertion as the case study.
 - **Next** — sim-to-real on an SO-101, scaled task board, correlation ledger.
 
-## Pinned
+## Projects
 
 - [`nanoGPT-Valkyrie`](https://github.com/Ice-Citron/nanoGPT-Valkyrie) — GPT-2 124M pre-trained from scratch on 4× H100; LayerNorm / RMSNorm / PowerNorm study. [Paper](https://drive.google.com/file/d/1dlhTgv4-A2cCYSsL00An_XpfGpg1DyWy/view).
 - [`Quantarune`](https://github.com/Ice-Citron/) — competition-stage code for Intrinsic's AI for Industry Challenge (49th / 196). Honest autopsy in the README: 141 locally, 89 on hidden scenes, and why.
