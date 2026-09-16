@@ -14,7 +14,8 @@ My current focus is coverage-based edge-case hunter for robot reliability: how t
 
 ## Flagship projects
 
-- **Quantarune** — Intrinsic’s AI for Industry Challenge, 49th of 196.  
+- **Project-Ladder** — [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git)
+  Intrinsic’s AI for Industry Challenge, 49th of 196.  
   Our UR5e cable-insertion policy scored 141 locally and 89 on hidden scenes. That gap led to my current work on test coverage and failure discovery.
   <!-- Add the Quantarune archive link when the repository is public. -->
 
