@@ -8,12 +8,13 @@ My current focus is coverage-based edge-case hunter for robot reliability: how t
 
 ## Now
 
-- **Vikaso Robotics** — Robotics & ML Intern. Built the company’s first calibration pipeline for a UR5e. Built Vikaso's first in-house perception stack, integrated two segmentation and four 6D-pose models behind one interface. Built a BOP evaluation harness that matched the models’ published Average Recall results.
 - **GT-GAP**. Research on test coverage and failure discovery for learned manipulation policies. Cable insertion is the case study. Paper in preparation.
 - **Next**. SO-101 sim-to-real experiments, an expanded task board, and tests of how simulation results predict physical performance.
 
-## Flagship projects
+## Flagship projects & expriences
 
+- **Vikaso Robotics** — Robotics & ML Intern. (Built the company’s first calibration pipeline for a UR5e. Built Vikaso's first in-house perception stack, integrated two segmentation and four 6D-pose models behind one interface. Built a BOP evaluation harness that matched the models’ published Average Recall results.
+  
 - **Project-Ladder** — [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git) <br>
     Intrinsic’s AI for Industry Challenge, 49th of 196. Our UR5e cable-insertion policy scored 141 locally and 89 on hidden scenes. That gap led to my current work on test coverage and failure discovery.
 
