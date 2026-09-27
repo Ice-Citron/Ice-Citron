@@ -8,7 +8,7 @@ My current focus is coverage-based edge-case hunter for robot reliability: how t
 
 ## Now
 
-- **Vikaso Robotics** — Robotics & ML Intern. Built the company’s first calibration pipeline for a UR5e. Integrated two segmentation and four 6D-pose models behind one interface. Built a BOP evaluation harness that matched the models’ published Average Recall results.
+- **Vikaso Robotics** — Robotics & ML Intern. Built the company’s first calibration pipeline for a UR5e. Built Vikaso's first in-house perception stack, integrated two segmentation and four 6D-pose models behind one interface. Built a BOP evaluation harness that matched the models’ published Average Recall results.
 - **GT-GAP**. Research on test coverage and failure discovery for learned manipulation policies. Cable insertion is the case study. Paper in preparation.
 - **Next**. SO-101 sim-to-real experiments, an expanded task board, and tests of how simulation results predict physical performance.
 
