@@ -1,6 +1,6 @@
 # Shi Hao Ng
 
-Second-year Computing student at Imperial College London. I build robot perception systems and physical prototypes.
+Second-year Computing student at Imperial College London. I train Physical AI models, build robotic perception systems and physical prototypes.
 
 My current focus is coverage-based edge-case hunter for robot reliability: how to find failures that a good local benchmark can miss.
 
