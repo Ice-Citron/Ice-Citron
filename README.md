@@ -53,10 +53,8 @@ My current focus is coverage-driven edge-case hunter for robot reliability: how 
 - Web: React, Node.js, Firebase
 - CAD and hardware: Fusion 360, Blender, Ansys Fluent, LS-DYNA, 3D printing, CNC, electronics, Betaflight
 
-## Outside work
+## Outside of work
 
-I run 25–30 km a week. Murakami’s writing helped me see endurance and consistent effort as skills I can practise.
-
-I read science fiction as thought experiments about technology and power. I also study how major technological changes make established assumptions fail.
+I run 25–30 km a week.
 
 Books and authors: Liu Cixin · Frank Herbert’s *Dune* · Haruki Murakami’s *What I Talk About When I Talk About Running*
