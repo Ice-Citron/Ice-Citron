@@ -37,7 +37,7 @@ My current focus is coverage-driven edge-case hunter for robot reliability: how 
 
 - **Augmented electromagnetic railgun** | [Website](https://sienarindustries.com/project/railgun) | [Rail-launcher simulations](https://github.com/Ice-Citron/FEA-Physics_IA) | [Write-up](https://docs.google.com/document/d/1gprXPwxTy_E5e2jCCYmBK_HHdFBfU2vu7njF-C8hT4M/edit?usp=sharing)
     - Iterated through 3 physical railgun prototypes, modeling each in Fusion 360 before fabrication. Ran 70 LS-DYNA simulations across 10 voltage conditions and decided on augmented railgun design. Cut copper rails and assembled prototypes with laser-cut acrylic panels
-    - For the power system, built a 450 V, 10 mF capacitor bank, charged via a ZVS driver, hand-wound ferrite-core transformer and bridge rectifier. Final railgun averaged 132 km/h across 10+ firing trials, estimated from high-speed footage
+    - For the power system, built a 450 V, 10,000 uF capacitor bank, charged via a ZVS driver, hand-wound ferrite-core transformer and bridge rectifier. Final railgun averaged 132 km/h across 10+ firing trials, estimated from high-speed footage
 
 - **FPV racing drone** | [Website](https://sienarindustries.com/project/fpv-drone)  
     - Designed the frame in Blender and 3D-printed in PET-CF; hand-soldered electronics (Mamba F722, DJI O4 Pro, ELRS), tuned Betaflight PIDs. Replaced frame due to crash damage; flew the completed 610 g drone in Acro (240 km/h theoretical top speed)
