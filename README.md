@@ -42,7 +42,7 @@ My current focus is coverage-driven edge-case hunter for robot reliability: how 
     - Designed the frame in Blender and 3D-printed in PET-CF; hand-soldered electronics (Mamba F722, DJI O4 Pro, ELRS), tuned Betaflight PIDs. Replaced frame due to crash damage; flew the completed 610 g drone in Acro (240 km/h theoretical top speed)
 
 - **F1 in Schools — Anduril Racing** — [Team site](https://andurilracing.com) · [Website](https://sienarindustries.com/project/f1-in-schools)
-    - Team Lead \& Technical Lead: secured \$1.1k sponsorship; led Fusion 360 design, optimization with Ansys Fluent CFD, resin printing \& CNC-machining (Mastercam); built a 20 m test track, saving the school $\sim$\$11k; won Innovation \& Marketing awards
+    - Team Lead & Technical Lead: secured $1.1k sponsorship; led Fusion 360 design, optimization with Ansys Fluent CFD, resin printing & CNC-machining (Mastercam); built a 20 m test track, saving the school ~$11k; won Innovation & Marketing awards
 
 ## Technical skills
 
