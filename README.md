@@ -8,15 +8,15 @@ My current focus is coverage-based edge-case hunter for robot reliability: how t
 
 ## Now
 
-- **GT-GAP**. Research on test coverage and failure discovery for learned manipulation policies. Cable insertion is the case study. Paper in preparation.
-- **Next**. SO-101 sim-to-real experiments, an expanded task board, and tests of how simulation results predict physical performance.
+- **Project Ladder**
 
 ## Flagship projects & experiences
 
-- **Vikaso Robotics** — Robotics & ML Intern. (Built the company’s first calibration pipeline for a UR5e. Built Vikaso's first in-house perception stack, integrated two segmentation and four 6D-pose models behind one interface. Built a BOP evaluation harness that matched the models’ published Average Recall results.
+- **Vikaso Robotics** — Robotics & ML Intern
+    Built the company’s first calibration pipeline for a UR5e. Built Vikaso's first in-house perception stack, integrated two segmentation and four 6D-pose models behind one interface. Built a BOP evaluation harness that matched the models’ published Average Recall results.
   
-- **Project-Ladder** — [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git) <br>
-    Intrinsic’s AI for Industry Challenge, 49th of 196. Our UR5e cable-insertion policy scored 141 locally and 89 on hidden scenes. That gap led to my current work on test coverage and failure discovery.
+- **Project-Automaton** — [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git) · [Website](https://sienarindustries.com/project/project-automaton) <br>
+    We competed in the Intrinsic’s AI for Industry Challenge, placing 49th of 196. We were tasked to build a policy which gets a Universal Robots UR5e to insert a fiber-optic cable into server racks. We experimented with sexy things like RL in Isaac Sim, perception with MegaPose and CNOS, and VLAs, but they didn't work. We went boring, and took up unsexy things like using a simple ACT model and a 4-state machine which is very analytical and maths-heavy, and it worked. The policy ultimately scored 141 locally and 89 on hidden scenes. This gap between local evals and held-out evals have inspired my work to further explore robotics in Project Ladder and GapHunter. I will attempt to publish my first robotic research paper, and also explore coverage-driven edge-case testing for robot deployment, which I believe will a big bottleneck in robot deployment.
 
 - **nanoGPT-Valkyrie** — [Research code](https://github.com/Ice-Citron/nanoGPT-Valkyrie) · [GPT-2 reproduction](https://github.com/Ice-Citron/GPT2-Reproduction) · [Paper](https://drive.google.com/file/d/1dlhTgv4-A2cCYSsL00An_XpfGpg1DyWy/view)  
   GPT-2 124M reproduction and research on normalisation methods and their positions within Transformer blocks. Pre-trained models on four H100 GPUs with PyTorch DDP, gradient accumulation, and mixed precision. This was followed by downstream evaluation and ablation studies.
