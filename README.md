@@ -1,42 +1,48 @@
 # Shi Hao Ng
 
-Second-year Computing student at Imperial College London. I train Physical AI models, build robotic perception systems and physical prototypes.
+I'm a second-year Computing student at Imperial College London. I train robots. I make robots see. I build robots.
 
-My current focus is coverage-based edge-case hunter for robot reliability: how to find failures that a good local benchmark can miss.
+My current focus is coverage-driven edge-case hunter for robot reliability: how to find failures that a good local benchmark can miss.
 
 [sienarindustries.com](https://sienarindustries.com) · [LinkedIn](https://www.linkedin.com/in/shi-hao-ng/) · [Hugging Face](https://huggingface.co/shng2025) · [Email](mailto:shi-hao.ng25@imperial.ac.uk)
 
 ## Now
 
-- **Project Ladder**
-    - I will attempt to publish my first robotic research paper, and also explore coverage-driven edge-case testing for robot deployment, which I believe will a big bottleneck in robot deployment.
+- **Project Ladder** - [Ladder CodeBase](https://github.com/Ice-Citron/Project-Ladder.git)
+    - I will attempt to publish my first robotic research paper, and also explore coverage-driven, edge-case testing for robot deployment, which I believe will a big bottleneck in robot deployment.
 
 ## Flagship projects & experiences
 
-- **Vikaso Robotics** — Robotics & ML Intern
-    Built the company’s first calibration pipeline for a UR5e. Built Vikaso's first in-house perception stack, integrated two segmentation and four 6D-pose models behind one interface. Built a BOP evaluation harness that matched the models’ published Average Recall results.
+- **Vikaso Robotics** — Robotics & ML Intern · [Website](https://sienarindustries.com/project/vikaso-internship)
+    - Built Vikaso's first camera-intrinsic and robot extrinsic (TCP-to-robot-base) calibration pipeline for a UR5e.
+    - Built Vikaso's first perception stack, integrated two segmentation and four 6D-pose-estimation open-source models behind one interface.
+    - To check my integrations' correctness, I built an evaluation harness which benchmarks 6D localisation and 2D detection models on public datasets and compare their metrics with published results.
   
-- **Project-Automaton** — [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git) · [More details in Website](https://sienarindustries.com/project/project-automaton) <br>
+- **Project-Automaton** — [CodeBase](https://github.com/Ice-Citron/Project-Automaton) · [More details in Website](https://sienarindustries.com/project/project-automaton) <br>
     - Rucha Agashe and I competed in the Intrinsic’s AI for Industry Challenge, placing 49th of 196.
     - We implemented a FSM-ACT policy which gets a Universal Robots UR5e to insert a fiber-optic cable into server racks, which scored 141 locally and 89 on hidden scenes.
     - This gap between local evals and held-out evals have inspired my work to further explore robotics in Project Ladder and GapHunter. 
 
 - **nanoGPT-Valkyrie** — [Research code](https://github.com/Ice-Citron/nanoGPT-Valkyrie) · [GPT-2 reproduction](https://github.com/Ice-Citron/GPT2-Reproduction) · [Paper](https://drive.google.com/file/d/1dlhTgv4-A2cCYSsL00An_XpfGpg1DyWy/view)  
-  GPT-2 124M reproduction and research on normalisation methods and their positions within Transformer blocks. Pre-trained models on four H100 GPUs with PyTorch DDP, gradient accumulation, and mixed precision. This was followed by downstream evaluation and ablation studies.
+    - Reproduced GPT-2 124M from scratch in PyTorch, pre-trained on FineWeb using DDP on 4x NVIDIA H100s; tuned GPU configurations, batch size, mixed precision, etc. achieving training throughput of 1.27M tokens/s
+    - Implemented LayerNorm, RMSNorm & PowerNorm. RMSNorm achieved comparable loss at 6% higher throughput than LayerNorm; PowerNorm's gradients exploded. Ran normalization ablations and analyzed per-layer gradients
+    - Fine-tuned base \& ablated models on BillSum and SQuAD. Evaluated text generation, summarization and QA. Awarded Grade A for this IB Computer Science Extended Essay
 
-- **Sparky / Hazel** — [Sparky](https://github.com/Ice-Citron/Sparky) · [Hazel](https://github.com/Ice-Citron/CAS-Project--Hazel)  
-  A 2D engine and application framework in C++ and OpenGL, based on The Cherno’s series. Sparky includes a batched sprite renderer, GLSL pipeline, and hand-written matrix library. Hazel includes templated event dispatch, a layer stack, and Dear ImGui docking.
+- **Sparky / Hazel** — [Sparky](https://github.com/Ice-Citron/Sparky) · [Hazel](https://github.com/Ice-Citron/CAS-Project--Hazel) · [Website](https://sienarindustries.com/project/game-engine)
+    - Recreated game engine in C++/OpenGL following The Cherno's tutorials: batched sprite renderer with texture slots over shared buffers, GLSL shaders for texturing and lighting, and a hand-written matrix library with a transformation stack
+    - Built an application framework using GLFW for windows \& input and C++ templates to dispatch events to handlers, with a layer stack that routes events to overlays first. Integrated ImGui docking and multi-viewport support into the render loop
 
 ## Built with my hands
 
-- **Augmented electromagnetic railgun** — [Write-up](https://sienarindustries.com/project/railgun) · [Rail-launcher simulations](https://github.com/Ice-Citron/FEA-Physics_IA)  
-  Three prototypes with a hand-wound ZVS transformer. Average projectile speed of 132 km/h across 10+ firings. A separate physics study used a rail-launcher model, with 70 LS-DYNA runs across 10 voltage conditions.
+- **Augmented electromagnetic railgun** — [Website](https://sienarindustries.com/project/railgun) · [Rail-launcher simulations](https://github.com/Ice-Citron/FEA-Physics_IA) · [Write-up](https://docs.google.com/document/d/1gprXPwxTy_E5e2jCCYmBK_HHdFBfU2vu7njF-C8hT4M/edit?usp=sharing)
+    - Iterated through 3 physical railgun prototypes, modeling each in Fusion 360 before fabrication. Ran 70 LS-DYNA simulations across 10 voltage conditions and decided on augmented railgun design. Cut copper rails and assembled prototypes with laser-cut acrylic panels
+    - For the power system, built a 450 V, 10 mF capacitor bank, charged via a ZVS driver, hand-wound ferrite-core transformer and bridge rectifier. Final railgun averaged 132 km/h across 10+ firing trials, estimated from high-speed footage
 
-- **FPV racing drone** — [Build log](https://sienarindustries.com/project/fpv-drone)  
-  Designed the PET-CF frame in Blender and soldered the electronics. Mamba F722, DJI O4 Pro, and ELRS; 610 g, tuned in Betaflight and flown in Acro mode.
+- **FPV racing drone** — [Website](https://sienarindustries.com/project/fpv-drone)  
+    - Designed the frame in Blender and 3D-printed in PET-CF; hand-soldered electronics (Mamba F722, DJI O4 Pro, ELRS), tuned Betaflight PIDs. Replaced frame due to crash damage; flew the completed 610 g drone in Acro (240 km/h theoretical top speed)
 
-- **F1 in Schools — Anduril Racing** — [Team site](https://andurilracing.com)  
-  Team and technical lead. Took designs through Fusion 360, Ansys Fluent CFD, resin printing, and CNC manufacture. Built a 20 m test track.
+- **F1 in Schools — Anduril Racing** — [Team site](https://andurilracing.com) · [Website](https://sienarindustries.com/project/f1-in-schools)
+    - Team Lead \& Technical Lead: secured \$1.1k sponsorship; led Fusion 360 design, optimization with Ansys Fluent CFD, resin printing \& CNC-machining (Mastercam); built a 20 m test track, saving the school $\sim$\$11k; won Innovation \& Marketing awards
 
 ## Technical skills
 
