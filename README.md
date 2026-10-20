@@ -2,8 +2,6 @@
 
 I'm a second-year Computing student at Imperial College London. I train robots. I make robots see. I build robots.
 
-My current focus is coverage-driven edge-case hunter for robot reliability: how to find failures that a good local benchmark can miss.
-
 [sienarindustries.com](https://sienarindustries.com) · [LinkedIn](https://www.linkedin.com/in/shi-hao-ng/) · [Hugging Face](https://huggingface.co/shng2025) · [Email](mailto:shi-hao.ng25@imperial.ac.uk)
 
 ## Now
