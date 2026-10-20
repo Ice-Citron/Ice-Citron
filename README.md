@@ -9,6 +9,7 @@ My current focus is coverage-based edge-case hunter for robot reliability: how t
 ## Now
 
 - **Project Ladder**
+    - I will attempt to publish my first robotic research paper, and also explore coverage-driven edge-case testing for robot deployment, which I believe will a big bottleneck in robot deployment.
 
 ## Flagship projects & experiences
 
@@ -18,7 +19,7 @@ My current focus is coverage-based edge-case hunter for robot reliability: how t
 - **Project-Automaton** — [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git) · [More details in Website](https://sienarindustries.com/project/project-automaton) <br>
     - Rucha Agashe and I competed in the Intrinsic’s AI for Industry Challenge, placing 49th of 196.
     - We implemented a FSM-ACT policy which gets a Universal Robots UR5e to insert a fiber-optic cable into server racks, which scored 141 locally and 89 on hidden scenes.
-    - This gap between local evals and held-out evals have inspired my work to further explore robotics in Project Ladder and GapHunter. I will attempt to publish my first robotic research paper, and also explore coverage-driven edge-case testing for robot deployment, which I believe will a big bottleneck in robot deployment.
+    - This gap between local evals and held-out evals have inspired my work to further explore robotics in Project Ladder and GapHunter. 
 
 - **nanoGPT-Valkyrie** — [Research code](https://github.com/Ice-Citron/nanoGPT-Valkyrie) · [GPT-2 reproduction](https://github.com/Ice-Citron/GPT2-Reproduction) · [Paper](https://drive.google.com/file/d/1dlhTgv4-A2cCYSsL00An_XpfGpg1DyWy/view)  
   GPT-2 124M reproduction and research on normalisation methods and their positions within Transformer blocks. Pre-trained models on four H100 GPUs with PyTorch DDP, gradient accumulation, and mixed precision. This was followed by downstream evaluation and ablation studies.
