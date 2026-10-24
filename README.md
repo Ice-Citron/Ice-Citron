@@ -8,7 +8,7 @@ I'm a second-year Computing student at Imperial College London. I train robots. 
 
 - **Project Ladder** | [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git)
     - Successor of Project Automaton: I will attempt to publish my first robotic research paper on cable-insertion.
-    - On the side, I'm currently exploring coverage-driven, edge-case testing for robot deployment, which I believe will a big bottleneck in robot deployment.
+    - On the side, I'm currently exploring coverage-driven, edge-case testing for robot deployment, which I believe will be a big bottleneck in robot deployment.
 
 ## Flagship projects & experiences
 
