@@ -6,7 +6,7 @@ I'm a second-year Computing student at Imperial College London. I train robots. 
 
 ## Now
 
-- **Project Ladder** | [CodeBase](https://github.com/Ice-Citron/Project-Ladder.git)
+- **Project Ladder**
     - Successor of Project Automaton: I will attempt to publish my first robotic research paper on cable-insertion.
     - On the side, I'm currently exploring coverage-driven, edge-case testing for robot deployment, which I believe will be a big bottleneck in robot deployment.
 
@@ -17,7 +17,7 @@ I'm a second-year Computing student at Imperial College London. I train robots. 
     - Built Vikaso's first perception stack, integrated two segmentation and four 6D-pose-estimation open-source models behind one interface.
     - To check my integrations' correctness, I built an evaluation harness which benchmarks 6D localisation and 2D detection models on public datasets and compare their metrics with published results.
   
-- **Project Automaton** | [CodeBase](https://github.com/Ice-Citron/Project-Automaton) | [More details in Website](https://sienarindustries.com/project/project-automaton) <br>
+- **Project Automaton** | [CodeBase](https://github.com/Ice-Citron/Project-Automaton__Quantarune__) | [More details in Website](https://sienarindustries.com/project/project-automaton) <br>
     - Rucha Agashe and I competed in the Intrinsic’s AI for Industry Challenge, placing 49th of 196.
     - We implemented a FSM-ACT policy which gets a Universal Robots UR5e to insert a fiber-optic cable into server racks, which scored 141 locally and 89 on hidden scenes.
     - This gap between local evals and held-out evals have inspired my work to further explore robotics in Project Ladder and GapHunter. 
